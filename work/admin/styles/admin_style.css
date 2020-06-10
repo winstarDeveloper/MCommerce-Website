@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+li {
+	list-style-type:none;
+	display:inline-block;
+	margin:30px;
+	padding:10px;
+}
+.main {
+	color:#000099;
+	font-style:normal;
+	font-size: 18px;
+	font-family:"Times New Roman";
+	}
+
+input {
+	font-size: 10px;	
+}
+
+button {
+	margin:15px;
+}
+
+#title {
+	display:inline;
+}
+
+label , input {
+	float:left;
+	margin:10px;
+	padding:2px;
+}
+
+form h2 {
+	color:#000099;
+}
+
+#title > input {
+	margin:0;
+}
+
+#pi_title {
+	width:220px;
+}
+#category{
+	
+}
+
+#brands {
+}
+
+#image {
+}
+
+#price {
+}
+
+#description {
+}
+
+#keywords {
+}
+
+input.form-control {
+	width:720px;
+}
+
+select.form-control {
+	width:720px;
+}
+
+#clear {
+	margin:20px;
+}
+
+#submit {
+	margin:20px;
+}
+
+@media (max width:1200px;) {
+
+}
+
+@media only screen and (max-width : 384px) { 
+li {
+	list-style-type:none;
+	display:block;
+	margin:10px;
+	padding:5px;
+}
+.main {
+	color:#000099;
+	font-style:normal;
+	font-size: 18px;
+	font-family:"Times New Roman";
+	}
+
+input {
+	font-size: 10px;	
+}
+
+button {
+	margin:15px;
+}
+input.form-control {
+	width:260px;
+}
+
+select.form-control {
+	width:260px;
+}
+}

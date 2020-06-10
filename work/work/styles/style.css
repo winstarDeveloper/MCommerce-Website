@@ -1,0 +1,215 @@
+
+/* CSS Document */
+html{
+	width:368px;
+	heigth:980px auto;
+}
+body {
+	font-weight: 400;
+	color: #666;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #444;
+}
+
+p {
+	font-size:14px;
+}
+
+a {
+	
+}
+a:hover {
+	text-decoration: none;
+}
+
+header {
+	border-bottom: 5px solid #e2e2e2;
+	padding:0;
+	margin: 15px 0 5px 0;
+	min-height: 40px;
+	height:80px;
+}
+
+#user ,#cart {
+	margin:10px 5px 10px 0;
+}
+
+#search #s_search {
+	width:240px;
+}
+
+form.form-horizontal{
+	display:inline;
+	border-bottom:#000000;
+}
+
+#search {
+	display:inline;
+}
+
+#go {
+	float:right;
+}
+
+nav > button{
+	width:320px;
+	margin:5px;
+}
+
+nav {
+	
+}
+/*
+nav {
+	background-color: #229ac8;
+	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-repeat: repeat-x;
+	border-color: #1f90bb #1f90bb #145e7a;
+	min-height: 40px;
+	margin:10px;
+}
+
+nav > ul > li {
+	display:inline;
+	color:#000000;
+	background-color:#CCCCCC;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	padding: 10px 15px 10px 15px;
+	min-height: 15px;
+}
+*/
+
+img.img-thumbnail{ 
+	height:160;
+	width:140;
+	margin:10px;
+}
+
+h1 {
+	font-size: 33px;
+}
+h2 {
+	font-size: 27px;
+}
+
+li a {
+
+}
+
+section h3 {
+	margin-left:5px;
+}
+
+article {
+	margin:10px 8px;
+    width:348px;
+    height:348px;
+}
+article h3 {
+	font:"Times New Roman", Times, serif ;
+	font-style:oblique; 
+}
+
+article p {
+	font:Verdana, Arial, Helvetica, sans-serif bold;
+
+}
+
+article img {
+	padding:5px;
+}
+
+#disp_image {
+	text-align:center;
+}
+
+article p {
+	font:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	float:right;
+	padding:10px;
+}
+
+#article_post > #disp_image {
+	
+}
+
+#p_image {
+	text-align:center;
+}
+
+ #disp_image {
+	width:220px auto;
+	height:240px auto;
+	padding:5px;
+	border:2px #000000;
+}
+
+#price {
+	font-size:18px;
+}
+
+#tin_image {
+	display:inline;
+	border:thin;
+	width:50px;
+	height:50px;
+	margin:10px;
+	
+}
+
+#p_desc {
+	text-align:left;
+	font:"Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:14px;
+}
+
+#p_cart {
+	text-align:center;
+}
+
+#p_cart img {
+	width:320px;
+	height:60px;
+}
+
+#p_price {
+	text-align:left;
+	font-size:24px;
+	font:Geneva, Arial, Helvetica, sans-serif;
+	color:#FF0000;
+}
+
+
+#article_post > h3 {
+	font-size:30px;
+}
+
+
+
+#products_box{
+	
+}
+
+footer {
+	margin:10px;
+}
+
+footer ul {
+	list-style-type:none;
+	height:20px;
+	margin:5 0;
+	margin-left:0;
+}
+
+footer li {
+	display:inline-block;
+	margin:0;
+	margin-right:4px;
+	padding:5px;
+}

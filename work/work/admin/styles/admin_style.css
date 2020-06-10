@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	width:368px;
+}
+
+#title {
+	display:inline;
+}
+
+#title label,#category label, #brands label, #image label, #price label, #description labels, #keywords labels {
+	float:left;
+	margin:10px;
+	padding:2px;
+}
+
+#title > input {
+	margin:0;
+}
+
+#category{
+	
+}
+
+#brands {
+}
+
+#image {
+}
+
+#price {
+}
+
+#description {
+}
+
+#keywords {
+}
+
+input.form-control {
+	width:260px;
+}
+
+select.form-control {
+	width:260px;
+}
+
+#clear {
+	margin:20px;
+}
+
+#submit {
+	margin:20px;
+}
+
+@media (max width:1200px;) {
+
+}
